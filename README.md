@@ -18,10 +18,6 @@
 
 - 📫 How to reach me **anitamari.1979@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/ana-mar%C3%ADa-mar%C3%ADn-delgado/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ana-maría-marín-delgado" height="30" width="40" /></a>
@@ -42,6 +38,11 @@
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnitaMari&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 
 Here are some ideas to get you started:
