@@ -23,7 +23,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dev.anamari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.anamari" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/ana-mar%C3%ADa-mar%C3%ADn-delgado/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ana-maría-marín-delgado" height="30" width="40" /></a>
 </p>
 
