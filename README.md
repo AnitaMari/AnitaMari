@@ -8,7 +8,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVkNTEzZmQ0YWM0NjEwZjAxYTEyOGZjMzYyYWNmOTE5NzI4OWZiMCZjdD1z/rsUGLKwgSvSxmq1VrZ/giphy.gif"> 
 
-- :star: Recently graduated as a Full Stack Developer in CodeOp.
+- :star: :congratulations: :womens: :heavy_check_mark: :school_satchel: :mortar_board: Recently graduated as a Full Stack Developer in CodeOp.
 
 - 🔭 I’m currently working on **a project to implement authentication, geolocation and a third party API**
 
