@@ -1,4 +1,4 @@
-https://tenor.com/en-GB/view/programming-gif-25868426
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
@@ -6,6 +6,7 @@ https://tenor.com/en-GB/view/programming-gif-25868426
 <h1 align="center">Hi! 👋 I'm Ana Mari</h1>
 <h3 align="center">A passionate Full Stack Developer from Spain</h3>
 <img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/programming-gif-25868426">
+<p align="left">
 
 - 🔭 I’m currently working on **a project to implement authentication, geolocation and a third party API**
 
