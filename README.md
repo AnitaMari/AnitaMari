@@ -3,20 +3,20 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<h1 align="center">Hi! 👋 I'm Ana Mari</h1>
+<h1 align="center">Hi! 👋 I'm Ana Mari :raising_hand:</h1>
 <h3 align="center">A passionate Full Stack Developer from Spain</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVkNTEzZmQ0YWM0NjEwZjAxYTEyOGZjMzYyYWNmOTE5NzI4OWZiMCZjdD1z/rsUGLKwgSvSxmq1VrZ/giphy.gif"> 
 
-- :mortar_board: Recently graduated as a Full Stack Developer in CodeOp.
+- :mortar_board: :woman_student: Recently graduated as a Full Stack Developer in CodeOp.
 
-- 🔭 I’m currently working on **a project to implement authentication, geolocation and a third party API**
+- 👨‍💻 :woman_technologist: I’m currently working on **a project to implement authentication, geolocation and a third party API**
 
 - 🌱 I’m currently learning **Mongo**
 
 - :star: I’m looking to collaborate on **any project I can participate in which I can learn something new or practice what I've learned**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AnitaMari](https://github.com/AnitaMari)
+- :octocat: All of my projects are available at [https://github.com/AnitaMari](https://github.com/AnitaMari)
 
 - 📫 How to reach me **anitamari.1979@gmail.com**
 
