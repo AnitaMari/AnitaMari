@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+[![MasterHead](https://github.com/AnitaMari/AnitaMari/blob/main/github-header-image.png?raw=true//1.bp.blogspot.com/-7A4WynwLsM...)]
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
