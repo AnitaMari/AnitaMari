@@ -1,9 +1,11 @@
+https://tenor.com/en-GB/view/programming-gif-25868426
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi! 👋 I'm Ana Mari</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A passionate Full Stack Developer from Spain</h3>
+<img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/programming-gif-25868426">
 
 - 🔭 I’m currently working on **a project to implement authentication, geolocation and a third party API**
 
