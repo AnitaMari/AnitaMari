@@ -8,11 +8,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVkNTEzZmQ0YWM0NjEwZjAxYTEyOGZjMzYyYWNmOTE5NzI4OWZiMCZjdD1z/rsUGLKwgSvSxmq1VrZ/giphy.gif"> 
 
+- :star: Recently graduated as a Full Stack Developer in CodeOp.
+
 - 🔭 I’m currently working on **a project to implement authentication, geolocation and a third party API**
 
 - 🌱 I’m currently learning **Mongo**
 
-- 👯 I’m looking to collaborate on **any project I can participate in which I can learn something new or practice what I learned.**
+- 👯 I’m looking to collaborate on **any project I can participate in which I can learn something new or practice what I've learned**
 
 - 👨‍💻 All of my projects are available at [https://github.com/AnitaMari](https://github.com/AnitaMari)
 
