@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi! 👋 I'm Ana Mari</h1>
 <h3 align="center">A passionate Full Stack Developer from Spain</h3>
-<iframe src="https://giphy.com/embed/rsUGLKwgSvSxmq1VrZ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/transparent-rsUGLKwgSvSxmq1VrZ">via GIPHY</a></p>
+<img src="https://giphy.com/embed/rsUGLKwgSvSxmq1VrZ" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen><p><a href="https://giphy.com/gifs/transparent-rsUGLKwgSvSxmq1VrZ">via GIPHY</a></p>
 <p align="left">
 
 - 🔭 I’m currently working on **a project to implement authentication, geolocation and a third party API**
