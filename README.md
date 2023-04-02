@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi! 👋 I'm Ana Mari</h1>
 <h3 align="center">A passionate Full Stack Developer from Spain</h3>
-<img align="right" alt="Coding" width="400" src="https://tenor.com/en-GB/view/programming-gif-25868426">
+<img align="right" alt="Coding" width="400" src="https://giphy.com/stickers/transparent-rsUGLKwgSvSxmq1VrZ">
 <p align="left">
 
 - 🔭 I’m currently working on **a project to implement authentication, geolocation and a third party API**
