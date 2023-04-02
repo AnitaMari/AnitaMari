@@ -3,7 +3,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-<h1 align="center">Hi! 👋 I'm Ana Mari :raising_hand:</h1>
+<h1 align="center">Hi! I'm Ana Mari :raising_hand:</h1>
 <h3 align="center">A passionate Full Stack Developer from Spain</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVkNTEzZmQ0YWM0NjEwZjAxYTEyOGZjMzYyYWNmOTE5NzI4OWZiMCZjdD1z/rsUGLKwgSvSxmq1VrZ/giphy.gif"> 
@@ -14,7 +14,7 @@
 
 - 🌱 I’m currently learning **Mongo**
 
-- :handshake: I’m looking to collaborate on **any project in which I can continue learning and grow as a professional with people from all over the world** earth_americas:
+- :handshake: I’m looking to collaborate on **any project in which I can continue learning and growing as a professional with people from all over the world** :earth_americas:
 
 - :octocat: All of my projects are available at [https://github.com/AnitaMari](https://github.com/AnitaMari)
 
