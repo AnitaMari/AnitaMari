@@ -4,7 +4,7 @@
 <!--END_SECTION:waka-->
 
 <h1 align="center">Hi! I'm Ana Mari :raising_hand:</h1>
-<h3 align="center">A passionate Full Stack Developer from Spain</h3>
+<h3 align="center">From a STEAM Teacher to a Full Stack Developer</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVkNTEzZmQ0YWM0NjEwZjAxYTEyOGZjMzYyYWNmOTE5NzI4OWZiMCZjdD1z/rsUGLKwgSvSxmq1VrZ/giphy.gif"> 
 
