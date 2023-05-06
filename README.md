@@ -12,17 +12,17 @@
 
 - :woman_technologist: I’m currently working on **a project to implement authentication, geolocation and a third party API**
 
-- 🌱 I’m currently learning **Mongo**
+- 🌱 I’m currently learning **Next**
 
 - :handshake: I’m looking to collaborate on **any project in which I can continue learning and growing as a professional with people from all over the world** :earth_americas:
 
 - :octocat: All of my projects are available at [https://github.com/AnitaMari](https://github.com/AnitaMari)
 
-- :email: How to reach me **anitamari.1979@gmail.com**
+- :email: How to reach me **anamariamarindelgadoFSD@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/ana-mar%C3%ADa-mar%C3%ADn-delgado/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ana-maría-marín-delgado" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ana-maria-marin-delgado/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ana-maria-marin-delgado" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
