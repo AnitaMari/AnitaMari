@@ -12,7 +12,7 @@
 
 - :woman_technologist: I’m currently working on **a project to implement authentication, geolocation and a third party API**
 
-- 🌱 I’m currently learning **Next**
+- 🌱 I’m currently learning **WordPress/Elementor**
 
 - :handshake: I’m looking to collaborate on **any project in which I can continue learning and growing as a professional with people from all over the world** :earth_americas:
 
