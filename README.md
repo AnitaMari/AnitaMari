@@ -1,8 +1,9 @@
 <!-- ![MasterHead](https://github.com/AnitaMari/AnitaMari/blob/main/github-header-image.png?raw=true//1.bp.blogspot.com/-7A4WynwLsM...) -->
 
-![headerGH](https://github.com/AnitaMari/AnitaMari/assets/116835304/26e0ba83-88b2-4dc6-bb9b-64e37a94117e)
+<!-- ![headerGH](https://github.com/AnitaMari/AnitaMari/assets/116835304/26e0ba83-88b2-4dc6-bb9b-64e37a94117e) -->
 
-
+![headerGH2](https://github.com/AnitaMari/AnitaMari/assets/116835304/c6aedb99-6540-47d1-a2d8-a0197194d79b)
+<br>
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
