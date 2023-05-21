@@ -1,6 +1,7 @@
-![MasterHead](https://github.com/AnitaMari/AnitaMari/blob/main/github-header-image.png?raw=true//1.bp.blogspot.com/-7A4WynwLsM...)
+<!-- ![MasterHead](https://github.com/AnitaMari/AnitaMari/blob/main/github-header-image.png?raw=true//1.bp.blogspot.com/-7A4WynwLsM...) -->
 
 ![headerGH](https://github.com/AnitaMari/AnitaMari/assets/116835304/26e0ba83-88b2-4dc6-bb9b-64e37a94117e)
+
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
