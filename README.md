@@ -21,7 +21,7 @@
 
 - :handshake: I’m looking to collaborate on **any project in which I can continue learning and growing as a professional with people from all over the world** :earth_americas:
 
-- :octocat: All of my projects are available at [https://github.com/AnitaMari](https://github.com/AnitaMari)
+- :octocat: All my projects are available at [https://github.com/AnitaMari](https://github.com/AnitaMari)
 
 - :email: How to reach me **anamariamarindelgadoFSD@gmail.com**
 
