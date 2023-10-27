@@ -13,17 +13,17 @@
 
 <img align="right" alt="Coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTVkNTEzZmQ0YWM0NjEwZjAxYTEyOGZjMzYyYWNmOTE5NzI4OWZiMCZjdD1z/rsUGLKwgSvSxmq1VrZ/giphy.gif"> 
 
-- :woman_student: **Full Stack Developer in CodeOp**
+- :woman_student: **"Full Stack Development Bootcamp" in CodeOp and "Web Development Course" in Formatecsa**
 
 - :woman_technologist: I’m currently working on **a project to implement authentication, geolocation and a third party API**
 
-- 🌱 I’m currently learning **Testing**
+- 🌱 I’m currently learning **Next and TypeScript**
 
 - :handshake: I’m looking to collaborate on **any project in which I can continue learning and growing as a professional with people from all over the world** :earth_americas:
 
 - :octocat: All my projects are available at [https://github.com/AnitaMari](https://github.com/AnitaMari)
 
-- :email: How to reach me **anamariamarindelgadoFSD@gmail.com**
+- :email: How to reach me **anamaridev2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
