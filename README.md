@@ -15,7 +15,7 @@
 
 - :woman_student: **"Full Stack Development Bootcamp" in CodeOp and "Web Development Course" in Formatecsa**
 
-- :woman_technologist: I’m currently working on **a project to implement authentication, geolocation and a third party API**
+- :woman_technologist: I’m currently working on **a project to implement geolocation**
 
 - 🌱 I’m currently learning **Next and TypeScript**
 
