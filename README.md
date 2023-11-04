@@ -17,7 +17,7 @@
 
 - :woman_technologist: I’m currently working on **a project to implement geolocation**
 
-- 🌱 I’m currently learning **Next and TypeScript**
+- 🌱 I’m currently learning **Next, Angular and TypeScript**
 
 - :handshake: I’m looking to collaborate on **any project in which I can continue learning and growing as a professional with people from all over the world** :earth_americas:
 
